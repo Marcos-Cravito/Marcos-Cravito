@@ -51,3 +51,4 @@ Busco entender cada tecnologia na prática, utilizando projetos para transformar
 
 ## 📫 Contato
 marcoscravitos@gmail.com
+https://www.linkedin.com/in/marcos-cravito-58989b368/
