@@ -1,4 +1,4 @@
-# Olá, eu sou Marcos Cravito 👋
+# Olá, eu sou Marcos Vinicius 👋
 
 Estudante de Desenvolvimento de Sistemas, focado em criar soluções práticas, aprender continuamente e transformar ideias em projetos funcionais.
 
